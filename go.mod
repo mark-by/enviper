@@ -1,4 +1,4 @@
-module enviper
+module github.com/mark-by/enviper
 
 go 1.15
 
